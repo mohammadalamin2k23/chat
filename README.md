@@ -1,2 +1,2 @@
 # chat
-ChatBot is a simply bot.
+ChatBot is a simply bot.that can..... 
